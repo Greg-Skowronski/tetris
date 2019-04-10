@@ -9,4 +9,6 @@ To clean type in cmd: make clean
 
 To run the program: ./tetris
 
+To move discs use keys: 1 2 3 4 5 6 7 8 9 0
+
 Program created by Grzegorz Skowroński
